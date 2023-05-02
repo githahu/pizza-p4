@@ -27,4 +27,5 @@ Things you may want to cover:
 
 1. Generate resource- pizza, restaurant and restaurant_pizza
 2. run migrations
-3.
+3. created relationships
+4. setting routes
